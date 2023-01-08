@@ -1,7 +1,8 @@
 # MICHAEL SYNAN
 I like website design, digital marketing, philosophy & jazz
 
-&ndash; [michaelsynan.com](https://michaelsynan.com) <br />
-&ndash; [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <br />
-&ndash; [Twitter](https://twitter.com/0x_forest) <br />
+- [michaelsynan.com](https://michaelsynan.com) <br />
+- [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <br />
+-[Twitter](https://twitter.com/0x_forest) <br />
+- [Mastodon](https://mstdn.social/@letsbecomehuman) <br />
 
