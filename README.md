@@ -1,4 +1,4 @@
-# MICHAEL SYNAN
+# HELLO, I'M MICHAEL SYNAN 👋
 I like website design, digital marketing, philosophy & jazz.
 
 Find more info or follow me at: 
