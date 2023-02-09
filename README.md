@@ -5,6 +5,6 @@ Find more info or follow me at:
 - [Personal Site](https://michaelsynan.com) <br />
 - [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <br />
 - [Mastodon](https://mstdn.social/@letsbecomehuman) <br />
-- [Stackblitz](https://stackblitz.com/@letsbecomehuman/collections/tools)
+- [Stackblitz](https://stackblitz.com/@michaelsynan/collections/tools)
 - [Twitter](https://twitter.com/0x_forest) <br />
 
