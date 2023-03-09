@@ -1,10 +1,7 @@
-# Hello, I'm Michael Synan 👋
-I like website design, digital marketing, philosophy & jazz.
+<p align="center">
+  
+[Personal Site](https://michaelsynan.com) <span>&#8226;</span> [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <span>&#8226;</span> [Mastodon](https://mstdn.social/@letsbecomehuman)  <span>&#8226;</span> [Stackblitz](https://stackblitz.com/@michaelsynan/collections/tools)
 
-Find more info or follow me at: 
-- [Personal Site](https://michaelsynan.com) <br />
-- [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <br />
-- [Mastodon](https://mstdn.social/@letsbecomehuman) <br />
-- [Stackblitz](https://stackblitz.com/@michaelsynan/collections/tools)
-- [Twitter](https://twitter.com/0x_forest) <br />
+</p>
+
 
