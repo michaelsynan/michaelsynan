@@ -1,3 +1,7 @@
-[Personal Site](https://michaelsynan.com) <span>&#8226; </span> [LinkedIn](https://www.linkedin.com/in/hellomichaelsynan) <span>&#8226; </span> [Mastodon](https://mstdn.social/@letsbecomehuman)  <span>&#8226; </span> [Stackblitz](https://stackblitz.com/@michaelsynan/collections/tools)
 
-
+<p align="center">
+  <a href="https://michaelsynan.com">Personal Site</a> |
+  <a href="https://www.linkedin.com/in/hellomichaelsynan">LinkedIn</a> |
+  <a href="https://mstdn.social/@letsbecomehuman">Mastodon</a> |
+  <a href="https://mstdn.social/@letsbecomehuman">StackBlitz</a>
+ </p>
